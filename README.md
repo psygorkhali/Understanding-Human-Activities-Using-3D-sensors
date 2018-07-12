@@ -18,5 +18,5 @@ Skeleton Modality is used
 1. Deep Recurrent Neural Network (DRNN)
 2. Temporal Convolutional Network (TCN)
 
-
+![Optional Text](https://github.com/psygorkhali/Understanding-Human-Activities-Using-3D-sensors/blob/master/images/RNN%20model.png)
 
