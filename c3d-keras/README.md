@@ -70,12 +70,3 @@ References
 2. [Original C3D implementation in Caffe](https://github.com/facebook/C3D)
 3. [C3D paper](https://arxiv.org/abs/1412.0767)
 
-Comment / Feedback
-===================
-Feel free to contact Chuck Cho (cycho at axon.com) for any comment or feedback.
-
-License
-=======
-
- * Source code: 2-clause BSD.
- * Data: various Creative Commons licenses. See [LICENSE.md](LICENSE.md) for details.
