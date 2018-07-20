@@ -29,11 +29,11 @@ OR, run each of these steps:
 Prerequisites
 =============
 Known to work with the following python packages:
-- Keras==2.0.0
-- tensorflow==0.12.1
+- Keras==2.2
+- tensorflow==1.8
 - h5py==2.6.0
 - numpy==1.12.0
-- cv2==3.1.0
+- cv2==3.5.0
 - pydot==1.1.0
 - graphviz
 
