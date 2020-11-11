@@ -24,3 +24,7 @@ Skeleton Modality is used
 Using 3DCNN
 
 RGB Modality is used
+
+## 3DCNN approach for Humann Activity Recognition
+
+.......updating soon with diagram and everything!!!!
