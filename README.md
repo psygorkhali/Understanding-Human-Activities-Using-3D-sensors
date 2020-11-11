@@ -22,4 +22,5 @@ Skeleton Modality is used
 
 ##Model
 Using 3DCNN
+
 RGB Modality is used
